@@ -1,0 +1,80 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: peachpuff
+  
+}
+
+#headshot {
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid white;
+  }
+  section{
+    display: flex;
+  }
+#Menu{
+    background-color: #343330;
+    height: 80%;
+    width: 160px;
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  
+#Education{
+  margin-left: 250px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+#Experience{
+  margin-left: 250px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#Intrests{
+  margin-left: 250px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#Skills{
+  margin-left: 250px;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+header {
+  margin: 50px;
+  border-style: solid;
+  border-width: 10px;
+  text-align : center;
+  background-color: brown
+
+
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
+
+
+
+
+
